@@ -1,0 +1,4 @@
+Our Simple Avatar Mesh Baker integration source; not the commercial Mesh Baker package.
+Requires user-installed Mesh Baker. This version also references VMCPCSS for caster-mask/export handling.
+Keep .meta files. Includes inherited-getter fix and source validation script.
+Not yet isolated from PCSS; see 03-VMCPCSS. No commercial third-party source/material assets included.
